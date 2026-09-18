@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-Cb5lQsTa.js","./dist-CfGT9QfJ.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper-2ej06EnG.js";import{i as t}from"./dist-CfGT9QfJ.js";var n=t(`Share`,{web:()=>e(()=>import(`./web-Cb5lQsTa.js`).then(e=>new e.ShareWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as Share};

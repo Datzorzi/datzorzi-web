@@ -1,20 +1,26 @@
 // GERADO por scripts/gerar-sw.mjs — não edite à mão.
-// Versão 1.5.5
+// Versão 1.5.6
 
-const VERSAO  = '1.5.5'
+const VERSAO  = '1.5.6'
 const CACHE   = 'datzorzi-v' + VERSAO
 const ARQUIVOS = [
   "assets/chunk-DECur_0Z.js",
-  "assets/definitions-Dc4LbuhJ.js",
+  "assets/definitions-BZ-kxkUV.js",
+  "assets/definitions-R0B7eI3W.js",
+  "assets/dist-CfGT9QfJ.js",
+  "assets/esm-BYRm6evp.js",
+  "assets/esm-CF5TqraZ.js",
   "assets/html2canvas-Dg1yeVo-.js",
-  "assets/index-CdtCbFkm.js",
-  "assets/index-DsHwODMc.css",
-  "assets/index.es-BZEm-NT3.js",
-  "assets/jspdf.es.min-Dj2CAT5y.js",
+  "assets/index-B7DuWR9m.css",
+  "assets/index-CGoM7EHs.js",
+  "assets/index.es-CFpAkKvY.js",
+  "assets/jspdf.es.min-C7LBtq9h.js",
   "assets/preload-helper-2ej06EnG.js",
-  "assets/purify.es-E9xtfL51.js",
-  "assets/typeof-v3x6qlpQ.js",
-  "assets/web-CX7GCCvy.js",
+  "assets/purify.es-CDpUdbr_.js",
+  "assets/typeof-DbwFlFFo.js",
+  "assets/web-BbqTGcnM.js",
+  "assets/web-Cb5lQsTa.js",
+  "assets/web-Cbrm_STR.js",
   "favicon.svg",
   "icons/apple-touch-icon.png",
   "icons/icon-192.png",
